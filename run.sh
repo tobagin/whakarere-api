@@ -1,0 +1,1 @@
+pkg . --targets node18
